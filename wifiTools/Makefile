@@ -6,8 +6,8 @@ include $(TOPDIR)/rules.mk
 
 # Name and release number of this package
 PKG_NAME:=wifiTools
-PKG_REV:=ae9bf828989f4bdd855abc1a40c8b459fc51d906
-PKG_VERSION:=2017-05-10
+PKG_REV:=28ab7b93d3ba763b23c57cc006c2d15f0eaeda05
+PKG_VERSION:=2019-06-04
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
