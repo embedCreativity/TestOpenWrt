@@ -5,13 +5,13 @@ This isn't exactly OpenWRT standard package management, but it's quick and dirty
 
 From your openwrt BSP directory, navigate to your package directory:
 
-cd package
+    cd package
 
-  Make a directory for embedcreativity
+Make a directory for embedcreativity
   
     mkdir embedcreativity
     
-  Clone this repo
+Clone this repo
   
     git clone https://github.com/embedCreativity/OpenwrtPackages.git
 
