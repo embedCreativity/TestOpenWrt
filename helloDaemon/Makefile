@@ -6,8 +6,8 @@ include $(TOPDIR)/rules.mk
 
 # Name and release number of this package
 PKG_NAME:=helloDaemon
-PKG_REV:=f4e6552190af7b378a552d363eb1af9aaf53c58c
-PKG_VERSION:=2017-02-11
+PKG_REV:=ea6f818e9ba493eca117d26d248f6fba40ba5e8e
+PKG_VERSION:=2019-06-05
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
